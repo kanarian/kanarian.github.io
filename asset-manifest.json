@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pop-it-game/static/css/main.249bc9fe.css",
+    "main.js": "/pop-it-game/static/js/main.5696ff88.js",
+    "static/js/787.28cb0dcd.chunk.js": "/pop-it-game/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/pop-it-game/index.html",
+    "main.249bc9fe.css.map": "/pop-it-game/static/css/main.249bc9fe.css.map",
+    "main.5696ff88.js.map": "/pop-it-game/static/js/main.5696ff88.js.map",
+    "787.28cb0dcd.chunk.js.map": "/pop-it-game/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249bc9fe.css",
+    "static/js/main.5696ff88.js"
+  ]
+}
